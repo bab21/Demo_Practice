@@ -11,7 +11,7 @@ public class App
 
     public static void main( String[] args )
     {
-        System.out.println( "Hello World! Changes for conflict " );
+        System.out.println( "Hello World! Good morning " );
         logger.trace("We've just greeted the user!");
         logger.debug("We've just greeted the user!");
         logger.info("We've just greeted the user!");
