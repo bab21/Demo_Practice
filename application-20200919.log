@@ -1,0 +1,5 @@
+2020-09-19 11:05:25.545 [main] DEBUG NewStart.JavaPractice.App - We've just greeted the user!
+2020-09-19 11:05:25.580 [main] INFO  NewStart.JavaPractice.App - We've just greeted the user!
+2020-09-19 11:05:25.581 [main] WARN  NewStart.JavaPractice.App - We've just greeted the user!
+2020-09-19 11:05:25.582 [main] ERROR NewStart.JavaPractice.App - We've just greeted the user!
+2020-09-19 11:05:25.583 [main] FATAL NewStart.JavaPractice.App - We've just greeted the user!

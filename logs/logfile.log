@@ -1,0 +1,4 @@
+INFO  | 2020-09-19 12:19:40 | [main] JavaPractice.App (App.java:17) - We've just greeted the user!
+WARN  | 2020-09-19 12:19:40 | [main] JavaPractice.App (App.java:18) - We've just greeted the user!
+ERROR | 2020-09-19 12:19:40 | [main] JavaPractice.App (App.java:19) - We've just greeted the user!
+FATAL | 2020-09-19 12:19:40 | [main] JavaPractice.App (App.java:20) - We've just greeted the user!
