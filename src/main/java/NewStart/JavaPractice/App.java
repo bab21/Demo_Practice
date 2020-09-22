@@ -13,7 +13,7 @@ public class App
     {
 
        
-        System.out.println( "Hello World! Good afternoon " );
+        System.out.println( "Hello World! Good afternoon to all " );
 
         logger.trace("We've just greeted the user!");
         logger.debug("We've just greeted the user!");
